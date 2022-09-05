@@ -1,4 +1,5 @@
-# Machine_Learning_Exercises
+# Supervised Machine Learning Exercises
+Supervised Machine Learning exercises.
 
 ## Sheet2
 Connectionist neurons and Multilayer Perceptrons.
